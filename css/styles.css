@@ -1,0 +1,17 @@
+.top-container {  text-align: center;
+  background-color: rgb(154, 228, 255);
+   padding-top: 80px;
+}
+.middle-container {}
+.bottom-container {}
+
+.top-cloud {margin-left: 450px;
+}
+.bot-cloud {position: absolute; left:200px;}
+
+body {margin:0; font-family: sans-serif; }
+h1 {color:rgb(121, 66, 191);}
+.pfp {border-radius: 40%; height:150px;}
+.discordimg {height: 120px; }
+.dsimg {height:160px ;}
+.mountimg {display: none;}
